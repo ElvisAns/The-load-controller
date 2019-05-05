@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="4">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff3f000000000000007d03000028020000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="default" module="ARES"/>
+  <WINDOW type="default" module="VSMSTUDIO">
+   <FILE ACTIVE="TRUE" NAME="Arduino Mega/main.ino"/>
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAABTPwCAAAAAfsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAABTAAAASwA////AAAAAwAAA/gAAABm/AEAAAAB+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAAAAAD+AAAAFAA////AAAC9AAAAUwAAAABAAAAAgAAAAgAAAAC/AAAAAA="/>
+   <PROJECT ACTIVE="TRUE" NAME="ARDUINO MEGA" CONFIGURATION="Debug"/>
+  </WINDOW>
+  <WINDOW type="VIEW3D" module="VIEW3D">
+   <camera>
+    <position x="7152431" y="-3784700" z="7530327"/>
+    <focus x="-1281460" y="-78118" z="-378444"/>
+    <up x="-687283" y="-14230" z="726250"/>
+   </camera>
+  </WINDOW>
+  <WINDOW type="default" module="BOM"/>
+  <WINDOW type="default" module="DXP"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
